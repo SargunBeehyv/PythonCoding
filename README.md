@@ -23,7 +23,7 @@ Python isn't just a programming language; it's a gateway to limitless possibilit
 
 ## PythonCoding for Our Company
 
-At [Beehyv], PythonCoding is integral to our success. It powers our tools, optimizes our workflows, and enables us to innovate faster. By fostering a culture of learning and creativity, we harness Python's potential to deliver exceptional solutions for our clients and stakeholders.
+At Beehyv, PythonCoding is integral to our success. It powers our tools, optimizes our workflows, and enables us to innovate faster. By fostering a culture of learning and creativity, we harness Python's potential to deliver exceptional solutions for our clients and stakeholders.
 
 ## Conclusion
 
